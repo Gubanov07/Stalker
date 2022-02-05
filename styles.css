@@ -1,12 +1,9 @@
- .success {
-color: green;
+ .aaa{
+color: orange;
 }
-.error {
-color: red;
+.ccc {
+   font-size: 50px;   
 }
-.large {
-font-size: 30px;
-}
-.small {
-font-size: 20px;
+.bbb {
+   font-family: Times new roman;
 }
