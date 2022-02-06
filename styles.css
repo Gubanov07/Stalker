@@ -1,4 +1,3 @@
-p {
-	font-size: 30px;
-	line-height: 0.5;
+#block h1, #block h2 {
+   text-align: center;
 }
