@@ -1,7 +1,9 @@
 h2 {
    font-size: 20px;
+   color: blue;
 }
 h2 {
-   font-size: 30px;
+   font-style: italic;
+   color: red;
 }
-/* Заголовки будут размером 30px, так как вторая запись переопределит первую */
+/* К заголову будут применятся свойства font-size - будет 30px font-style - будет italic color - red */
