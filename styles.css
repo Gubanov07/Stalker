@@ -1,3 +1,3 @@
-a[href$=".html"] {
+p[title*='Привет'] {
    color: blue;
 }
