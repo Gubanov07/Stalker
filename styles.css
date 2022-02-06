@@ -1,4 +1,16 @@
-p {
-	font-size: 30px;
-	line-height: 0.5;
+ a:link 
+{color: blue;
+}
+
+a:visited
+{color: green;
+}
+
+a:hover
+{color: red;
+text-decoration: none;
+}
+
+a:active
+{color: black;
 }
