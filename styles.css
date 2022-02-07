@@ -1,4 +1,6 @@
-p {
-	font-size: 30px;
-	line-height: 0.5;
+#elem {
+   width: 200px;
+   height: 200px;
+   border: 1px solid green;
+   border-radius: 20px;
 }
