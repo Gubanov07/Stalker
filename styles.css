@@ -2,9 +2,14 @@
    width: 400px;
    border: 1px dashed blue;
 }
+#father {
+   height: 250px; 
+   border: 1px dashed green;
+   margin: 25px;
+}
 
 #child {
-   height: 300px;
-   border: 1px solid orange;
-   margin: 50px;
+   height: 200px;
+   border: 1px solid red;
+   margin: 25px;
 }
