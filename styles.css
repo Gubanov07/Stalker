@@ -1,10 +1,12 @@
-#elem {
-   background-size: bottom right;
+body {
+   background-attachment: scroll;
    background-image: url("bg.png");
-   background-repeat: no-repeat;
+}   
+#elem {
    width: 400px;
    height: 400px;
-   border: 1px solid black;
-   
-
+   margin: 0 auto;
+   text-align: justify;
+   font-weight: bold;
+   font-size: 20px;
 }
