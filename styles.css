@@ -1,12 +1,8 @@
-body {
-   background-attachment: scroll;
-   background-image: url("bg.png");
-}   
 #elem {
-   background-color: green;
-   background-clip: padding-box;
-   border: 5px dashed black;
-   padding: 10px;
+   background-origin: border-box;
+   background-image: url("bg.png");
+   border: 5px dashed; black;
+   padding: 5px;
    width: 200px;
    height: 150px;
 }
